@@ -1,5 +1,5 @@
 # Modeling and control of manipulator robots
-*Author： Yan CHEN & Dajing GU*
+*Author： Yan CHEN & [Dajing GU](https://github.com/PPatrickGU)*
 
 *Prof : Mathieu GROSSARD* 
 
